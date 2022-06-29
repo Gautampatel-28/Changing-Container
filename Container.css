@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(90deg,#C2E9FC,#47B5FF);
+}
+
+.container{
+    width: 50%;
+    padding: 15px;
+    border-radius: 10px;
+    background: #47B5FF;
+    display: flex;
+    gap: 15px;
+}
+
+.card{
+    width: 300px;
+    background: #fff;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.one{
+    order: 4;
+}
+
+.two{
+    order: 3;
+}
+
+.three{
+    order: 2;
+}
+
+.four{
+    order: 1;
+}
